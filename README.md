@@ -54,7 +54,7 @@ Music recommendation systems have become an integral part of our daily lives, an
 
 Our model achieved an accuracy of 0.85 on the test set, as measured by the ROC AUC score. Here's a visualization of the ROC curve:
 
-![Web App Screenshot](https://myrepository.com/images/web_app_screenshot.png)
+![ROC AUC Curve](Results/ROC_AUC_curve.png)
 
 As you can see, the curve shows good separation between positive and negative classes, indicating that our model is effective at predicting song recommendations.
 
