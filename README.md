@@ -60,7 +60,7 @@ As you can see, the curve shows good separation between positive and negative cl
 
 In addition to the Jupyter Notebook implementation, we also created a web application for users to interact with our recommendation system. Here's a screenshot of the app in action:
 
-![Web App Screenshot](https://myrepository.com/images/web_app_screenshot.png)
+![Web App Screenshot](Results/playlist_recommend.png)
 
 Users can enter the name of an existing playlist, and our server will respond with a list of recommended songs based on that playlist. 
 
