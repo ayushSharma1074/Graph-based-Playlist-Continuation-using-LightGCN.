@@ -1,4 +1,4 @@
-## **Title** 
+# **Title** 
 Automated Playlist Continuation using GNNs
 
 ## **Dataset** 
