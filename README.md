@@ -1,5 +1,6 @@
 # **Title** 
-Automated Playlist Continuation using GNNs
+
+Graph based Playlist Continuation using LightGCN.
 
 ## **Dataset** 
 [Spotify Million Playlist Challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
