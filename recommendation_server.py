@@ -166,8 +166,8 @@ args = {
 
 def gettrackname(uri_list):
     # Replace the values below with your own Spotify API credentials
-    client_id = 'd5566a60926740f3a8070889731a2d21'
-    client_secret = 'eb5fc0638a1241c3a611186ff8d167e3'
+    client_id = ''
+    client_secret = ''
 
     # Initialize the Spotify API client
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
